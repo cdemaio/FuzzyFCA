@@ -1,6 +1,6 @@
 
 #FuzzyFCA
-Java labrary implementing fuzzy extension of Formal Concept Analysis (FCA) algorithm to extract fuzzy lattice and association rules.
+Java library implementing fuzzy extension of Formal Concept Analysis (FCA) algorithm to extract fuzzy lattice and association rules.
 
 The implementation extends colibri-java library that implements FCA algorithm and is available here: https://code.google.com/p/colibri-java/
 
