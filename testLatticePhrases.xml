@@ -1,0 +1,1404 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<lattice contextUri="http://www.mia.com" objectSize="12" attributeSize="104" conceptSize="34" edgeSize="66">
+    <concepts>
+        <concept id="0" label="#root" support="1.0">
+            <object name="0" own="false">
+                <membership>0.0</membership>
+            </object>
+            <object name="1" own="false">
+                <membership>0.0</membership>
+            </object>
+            <object name="11" own="false">
+                <membership>0.0</membership>
+            </object>
+            <object name="12" own="false">
+                <membership>0.0</membership>
+            </object>
+            <object name="2" own="false">
+                <membership>0.0</membership>
+            </object>
+            <object name="3" own="false">
+                <membership>0.0</membership>
+            </object>
+            <object name="4" own="false">
+                <membership>0.0</membership>
+            </object>
+            <object name="5" own="false">
+                <membership>0.0</membership>
+            </object>
+            <object name="6" own="false">
+                <membership>0.0</membership>
+            </object>
+            <object name="7" own="false">
+                <membership>0.0</membership>
+            </object>
+            <object name="8" own="false">
+                <membership>0.0</membership>
+            </object>
+            <object name="9" own="false">
+                <membership>0.0</membership>
+            </object>
+        </concept>
+        <concept id="11" label="#watching##1" support="0.084">
+            <object name="8" own="true">
+                <membership>1.0</membership>
+            </object>
+            <attribute name="watching##1" own="true">
+                <membership>1.0</membership>
+            </attribute>
+        </concept>
+        <concept id="1" label="#target" support="0.0">
+            <attribute name="acting##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="acts##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="answer##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="assets##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="bed##3" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="beginning##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="bond##2" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="buy##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="cancer##2" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="care##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="concern##2" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="confession##2" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="crash##3, crash##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="crisis##2" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="depression##3" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="dollar##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="don##5, don##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="dream##6, dream##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="economy##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="eleven##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="elite##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="euro##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="example##3" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="face##4" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="fall##10, pin##2" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="fall##3" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="fear##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="feel##2" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="find##2" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="fine##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="funds##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="get##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="government##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="hearing##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="hedge##2" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="hedging##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="help##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="investing##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="investor##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="isn##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="jewel##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="job##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="keep##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="know##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="lay##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="light##6" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="lot##3" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="make##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="market##2, market##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="matter##5" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="milk##3" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="moment##2" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="money##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="month##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="night##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="opportunity##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="package##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="patent##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="people##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="plan##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="politician##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="prediction##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="problem##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="quick##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="recession##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="remove##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="rescue##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="rest##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="risk##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="rule##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="savings##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="say##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="see##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="set##5" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="situation##2" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="situation##3" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="smart##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="sort##1, kind##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="stock##4" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="storm##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="strategy##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="stuff##2, stuff##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="take##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="talking##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="tell##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="thing##5" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="things##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="think##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="thinking##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="thirties##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="thirty##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="time##2" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="toast##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="tough##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="trader##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="treasury##3" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="try##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="twelve##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="wait##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="watching##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="work##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="world##5" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="year##1" own="false">
+                <membership>0.0</membership>
+            </attribute>
+            <attribute name="years##2" own="false">
+                <membership>0.0</membership>
+            </attribute>
+        </concept>
+        <concept id="9" label="#tough##1" support="0.084">
+            <object name="3" own="true">
+                <membership>1.0</membership>
+            </object>
+            <attribute name="tough##1" own="true">
+                <membership>1.0</membership>
+            </attribute>
+        </concept>
+        <concept id="8" label="#take##1" support="0.167">
+            <object name="12" own="false">
+                <membership>1.0</membership>
+            </object>
+            <object name="9" own="false">
+                <membership>0.58</membership>
+            </object>
+            <attribute name="take##1" own="true">
+                <membership>0.58</membership>
+            </attribute>
+        </concept>
+        <concept id="6" label="#problem##1" support="0.167">
+            <object name="12" own="false">
+                <membership>1.0</membership>
+            </object>
+            <object name="2" own="false">
+                <membership>0.75</membership>
+            </object>
+            <attribute name="problem##1" own="true">
+                <membership>0.75</membership>
+            </attribute>
+        </concept>
+        <concept id="5" label="#money##1" support="0.417">
+            <object name="0" own="false">
+                <membership>1.0</membership>
+            </object>
+            <object name="1" own="false">
+                <membership>0.73</membership>
+            </object>
+            <object name="4" own="false">
+                <membership>0.96</membership>
+            </object>
+            <object name="5" own="false">
+                <membership>1.0</membership>
+            </object>
+            <object name="9" own="false">
+                <membership>0.67</membership>
+            </object>
+            <attribute name="money##1" own="true">
+                <membership>0.67</membership>
+            </attribute>
+        </concept>
+        <concept id="4" label="#make##1" support="0.334">
+            <object name="2" own="false">
+                <membership>0.75</membership>
+            </object>
+            <object name="4" own="false">
+                <membership>0.96</membership>
+            </object>
+            <object name="5" own="false">
+                <membership>1.0</membership>
+            </object>
+            <object name="9" own="false">
+                <membership>0.67</membership>
+            </object>
+            <attribute name="make##1" own="true">
+                <membership>0.67</membership>
+            </attribute>
+        </concept>
+        <concept id="3" label="#get##1" support="0.167">
+            <object name="7" own="false">
+                <membership>0.75</membership>
+            </object>
+            <object name="9" own="false">
+                <membership>0.58</membership>
+            </object>
+            <attribute name="get##1" own="true">
+                <membership>0.58</membership>
+            </attribute>
+        </concept>
+        <concept id="2" label="#dream##6, dream##1" support="0.167">
+            <object name="11" own="true">
+                <membership>1.0</membership>
+            </object>
+            <object name="4" own="false">
+                <membership>0.62</membership>
+            </object>
+            <attribute name="dream##6, dream##1" own="true">
+                <membership>0.62</membership>
+            </attribute>
+        </concept>
+        <concept id="7" label="#people##1" support="0.25">
+            <object name="4" own="false">
+                <membership>0.62</membership>
+            </object>
+            <object name="6" own="false">
+                <membership>0.75</membership>
+            </object>
+            <object name="9" own="false">
+                <membership>0.58</membership>
+            </object>
+            <attribute name="people##1" own="true">
+                <membership>0.75</membership>
+            </attribute>
+            <attribute name="sort##1, kind##1" own="true">
+                <membership>0.58</membership>
+            </attribute>
+        </concept>
+        <concept id="17" label="#plan##1" support="0.167">
+            <object name="0" own="false">
+                <membership>0.75</membership>
+            </object>
+            <object name="5" own="false">
+                <membership>1.0</membership>
+            </object>
+            <attribute name="money##1" own="false">
+                <membership>1.0</membership>
+            </attribute>
+            <attribute name="plan##1" own="true">
+                <membership>0.75</membership>
+            </attribute>
+        </concept>
+        <concept id="16" label="#market##2, market##1" support="0.334">
+            <object name="0" own="false">
+                <membership>0.76</membership>
+            </object>
+            <object name="1" own="false">
+                <membership>0.73</membership>
+            </object>
+            <object name="4" own="false">
+                <membership>0.73</membership>
+            </object>
+            <object name="9" own="false">
+                <membership>0.58</membership>
+            </object>
+            <attribute name="market##2, market##1" own="true">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="money##1" own="false">
+                <membership>0.67</membership>
+            </attribute>
+        </concept>
+        <concept id="15" label="#make##1#money#" support="0.25">
+            <object name="4" own="false">
+                <membership>0.96</membership>
+            </object>
+            <object name="5" own="false">
+                <membership>1.0</membership>
+            </object>
+            <object name="9" own="false">
+                <membership>0.67</membership>
+            </object>
+            <attribute name="make##1" own="false">
+                <membership>0.67</membership>
+            </attribute>
+            <attribute name="money##1" own="false">
+                <membership>0.67</membership>
+            </attribute>
+        </concept>
+        <concept id="18" label="#isn##1" support="0.25">
+            <object name="2" own="false">
+                <membership>0.75</membership>
+            </object>
+            <object name="4" own="false">
+                <membership>0.62</membership>
+            </object>
+            <object name="9" own="false">
+                <membership>0.58</membership>
+            </object>
+            <attribute name="isn##1" own="true">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="make##1" own="false">
+                <membership>0.67</membership>
+            </attribute>
+        </concept>
+        <concept id="10" label="#bond##2" support="0.167">
+            <object name="1" own="false">
+                <membership>0.73</membership>
+            </object>
+            <object name="6" own="false">
+                <membership>0.75</membership>
+            </object>
+            <attribute name="bond##2" own="true">
+                <membership>0.95</membership>
+            </attribute>
+            <attribute name="treasury##3" own="true">
+                <membership>0.73</membership>
+            </attribute>
+        </concept>
+        <concept id="22" label="#stuff##2, stuff##1" support="0.167">
+            <object name="4" own="false">
+                <membership>0.62</membership>
+            </object>
+            <object name="6" own="false">
+                <membership>0.75</membership>
+            </object>
+            <attribute name="people##1" own="false">
+                <membership>0.75</membership>
+            </attribute>
+            <attribute name="sort##1, kind##1" own="false">
+                <membership>0.62</membership>
+            </attribute>
+            <attribute name="stuff##2, stuff##1" own="true">
+                <membership>0.62</membership>
+            </attribute>
+        </concept>
+        <concept id="21" label="#say##1" support="0.167">
+            <object name="6" own="false">
+                <membership>0.75</membership>
+            </object>
+            <object name="9" own="false">
+                <membership>0.58</membership>
+            </object>
+            <attribute name="people##1" own="false">
+                <membership>0.75</membership>
+            </attribute>
+            <attribute name="say##1" own="true">
+                <membership>0.67</membership>
+            </attribute>
+            <attribute name="sort##1, kind##1" own="false">
+                <membership>0.58</membership>
+            </attribute>
+        </concept>
+        <concept id="27" label="#don##5, don##1" support="0.25">
+            <object name="0" own="false">
+                <membership>0.76</membership>
+            </object>
+            <object name="4" own="false">
+                <membership>0.73</membership>
+            </object>
+            <object name="9" own="false">
+                <membership>0.58</membership>
+            </object>
+            <attribute name="don##5, don##1" own="true">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="market##2, market##1" own="false">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="money##1" own="false">
+                <membership>0.67</membership>
+            </attribute>
+        </concept>
+        <concept id="26" label="#care##1" support="0.25">
+            <object name="1" own="false">
+                <membership>0.73</membership>
+            </object>
+            <object name="4" own="false">
+                <membership>0.73</membership>
+            </object>
+            <object name="9" own="false">
+                <membership>0.58</membership>
+            </object>
+            <attribute name="care##1" own="true">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="market##2, market##1" own="false">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="money##1" own="false">
+                <membership>0.67</membership>
+            </attribute>
+        </concept>
+        <concept id="19" label="#rest##1" support="0.084">
+            <object name="7" own="true">
+                <membership>0.75</membership>
+            </object>
+            <attribute name="get##1" own="false">
+                <membership>0.75</membership>
+            </attribute>
+            <attribute name="jewel##1" own="true">
+                <membership>0.75</membership>
+            </attribute>
+            <attribute name="patent##1" own="true">
+                <membership>0.75</membership>
+            </attribute>
+            <attribute name="rest##1" own="true">
+                <membership>1.0</membership>
+            </attribute>
+        </concept>
+        <concept id="12" label="#eleven##1#try##1" support="0.084">
+            <object name="12" own="true">
+                <membership>1.0</membership>
+            </object>
+            <attribute name="eleven##1" own="true">
+                <membership>1.0</membership>
+            </attribute>
+            <attribute name="problem##1" own="false">
+                <membership>1.0</membership>
+            </attribute>
+            <attribute name="take##1" own="false">
+                <membership>1.0</membership>
+            </attribute>
+            <attribute name="try##1" own="true">
+                <membership>1.0</membership>
+            </attribute>
+        </concept>
+        <concept id="30" label="#crash##3, crash##1" support="0.167">
+            <object name="0" own="false">
+                <membership>0.75</membership>
+            </object>
+            <object name="4" own="false">
+                <membership>0.73</membership>
+            </object>
+            <attribute name="crash##3, crash##1" own="true">
+                <membership>0.75</membership>
+            </attribute>
+            <attribute name="don##5, don##1" own="false">
+                <membership>0.76</membership>
+            </attribute>
+            <attribute name="market##2, market##1" own="false">
+                <membership>0.73</membership>
+            </attribute>
+            <attribute name="money##1" own="false">
+                <membership>0.96</membership>
+            </attribute>
+        </concept>
+        <concept id="32" label="#assets##1" support="0.167">
+            <object name="1" own="false">
+                <membership>0.73</membership>
+            </object>
+            <object name="9" own="false">
+                <membership>0.58</membership>
+            </object>
+            <attribute name="assets##1" own="true">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="care##1" own="false">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="market##2, market##1" own="false">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="money##1" own="false">
+                <membership>0.67</membership>
+            </attribute>
+        </concept>
+        <concept id="31" label="#rule##1" support="0.167">
+            <object name="0" own="false">
+                <membership>0.75</membership>
+            </object>
+            <object name="9" own="false">
+                <membership>0.58</membership>
+            </object>
+            <attribute name="don##5, don##1" own="false">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="market##2, market##1" own="false">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="money##1" own="false">
+                <membership>0.67</membership>
+            </attribute>
+            <attribute name="rescue##1" own="true">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="rule##1" own="true">
+                <membership>0.67</membership>
+            </attribute>
+        </concept>
+        <concept id="33" label="#euro##1#know##1" support="0.167">
+            <object name="1" own="false">
+                <membership>0.73</membership>
+            </object>
+            <object name="4" own="false">
+                <membership>0.62</membership>
+            </object>
+            <attribute name="care##1" own="false">
+                <membership>0.73</membership>
+            </attribute>
+            <attribute name="euro##1" own="true">
+                <membership>0.62</membership>
+            </attribute>
+            <attribute name="know##1" own="true">
+                <membership>0.62</membership>
+            </attribute>
+            <attribute name="market##2, market##1" own="false">
+                <membership>0.73</membership>
+            </attribute>
+            <attribute name="money##1" own="false">
+                <membership>0.73</membership>
+            </attribute>
+        </concept>
+        <concept id="28" label="#investing##1" support="0.084">
+            <object name="6" own="true">
+                <membership>0.75</membership>
+            </object>
+            <attribute name="bond##2" own="false">
+                <membership>1.0</membership>
+            </attribute>
+            <attribute name="investing##1" own="true">
+                <membership>0.75</membership>
+            </attribute>
+            <attribute name="people##1" own="false">
+                <membership>0.75</membership>
+            </attribute>
+            <attribute name="say##1" own="false">
+                <membership>0.75</membership>
+            </attribute>
+            <attribute name="sort##1, kind##1" own="false">
+                <membership>0.75</membership>
+            </attribute>
+            <attribute name="stuff##2, stuff##1" own="false">
+                <membership>0.78</membership>
+            </attribute>
+            <attribute name="treasury##3" own="false">
+                <membership>0.75</membership>
+            </attribute>
+        </concept>
+        <concept id="24" label="#example##3#hedging##1#lot##3#set##5#strategy##1" support="0.084">
+            <object name="5" own="true">
+                <membership>1.0</membership>
+            </object>
+            <attribute name="example##3" own="true">
+                <membership>1.0</membership>
+            </attribute>
+            <attribute name="hedging##1" own="true">
+                <membership>1.0</membership>
+            </attribute>
+            <attribute name="lot##3" own="true">
+                <membership>1.0</membership>
+            </attribute>
+            <attribute name="make##1" own="false">
+                <membership>1.0</membership>
+            </attribute>
+            <attribute name="money##1" own="false">
+                <membership>1.0</membership>
+            </attribute>
+            <attribute name="plan##1" own="false">
+                <membership>1.0</membership>
+            </attribute>
+            <attribute name="set##5" own="true">
+                <membership>1.0</membership>
+            </attribute>
+            <attribute name="strategy##1" own="true">
+                <membership>1.0</membership>
+            </attribute>
+        </concept>
+        <concept id="14" label="#keep##1" support="0.084">
+            <object name="2" own="true">
+                <membership>0.75</membership>
+            </object>
+            <attribute name="fall##10, pin##2" own="true">
+                <membership>0.77</membership>
+            </attribute>
+            <attribute name="feel##2" own="true">
+                <membership>0.75</membership>
+            </attribute>
+            <attribute name="hearing##1" own="true">
+                <membership>0.75</membership>
+            </attribute>
+            <attribute name="isn##1" own="false">
+                <membership>0.75</membership>
+            </attribute>
+            <attribute name="keep##1" own="true">
+                <membership>1.0</membership>
+            </attribute>
+            <attribute name="light##6" own="true">
+                <membership>0.75</membership>
+            </attribute>
+            <attribute name="make##1" own="false">
+                <membership>0.75</membership>
+            </attribute>
+            <attribute name="politician##1" own="true">
+                <membership>0.75</membership>
+            </attribute>
+            <attribute name="problem##1" own="false">
+                <membership>0.75</membership>
+            </attribute>
+        </concept>
+        <concept id="23" label="#trader##1" support="0.167">
+            <object name="4" own="false">
+                <membership>0.62</membership>
+            </object>
+            <object name="9" own="false">
+                <membership>0.58</membership>
+            </object>
+            <attribute name="care##1" own="false">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="don##5, don##1" own="false">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="isn##1" own="false">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="make##1" own="false">
+                <membership>0.67</membership>
+            </attribute>
+            <attribute name="market##2, market##1" own="false">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="money##1" own="false">
+                <membership>0.67</membership>
+            </attribute>
+            <attribute name="people##1" own="false">
+                <membership>0.85</membership>
+            </attribute>
+            <attribute name="sort##1, kind##1" own="false">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="trader##1" own="true">
+                <membership>0.58</membership>
+            </attribute>
+        </concept>
+        <concept id="29" label="#concern##2#dollar##1#remove##1#stock##4#thirty##1#toast##1#work##1#year##1" support="0.084">
+            <object name="1" own="true">
+                <membership>0.73</membership>
+            </object>
+            <attribute name="assets##1" own="false">
+                <membership>0.73</membership>
+            </attribute>
+            <attribute name="bond##2" own="false">
+                <membership>0.95</membership>
+            </attribute>
+            <attribute name="care##1" own="false">
+                <membership>0.73</membership>
+            </attribute>
+            <attribute name="concern##2" own="true">
+                <membership>0.73</membership>
+            </attribute>
+            <attribute name="dollar##1" own="true">
+                <membership>0.73</membership>
+            </attribute>
+            <attribute name="euro##1" own="false">
+                <membership>0.73</membership>
+            </attribute>
+            <attribute name="know##1" own="false">
+                <membership>0.95</membership>
+            </attribute>
+            <attribute name="market##2, market##1" own="false">
+                <membership>1.0</membership>
+            </attribute>
+            <attribute name="money##1" own="false">
+                <membership>0.73</membership>
+            </attribute>
+            <attribute name="remove##1" own="true">
+                <membership>0.73</membership>
+            </attribute>
+            <attribute name="stock##4" own="true">
+                <membership>0.73</membership>
+            </attribute>
+            <attribute name="thirty##1" own="true">
+                <membership>0.73</membership>
+            </attribute>
+            <attribute name="toast##1" own="true">
+                <membership>0.73</membership>
+            </attribute>
+            <attribute name="treasury##3" own="false">
+                <membership>0.73</membership>
+            </attribute>
+            <attribute name="work##1" own="true">
+                <membership>0.73</membership>
+            </attribute>
+            <attribute name="year##1" own="true">
+                <membership>0.73</membership>
+            </attribute>
+        </concept>
+        <concept id="25" label="#buy##1#fall##3#fear##1#find##2#funds##1#hedge##2#investor##1#situation##2#smart##1#talking##1" support="0.084">
+            <object name="0" own="true">
+                <membership>0.75</membership>
+            </object>
+            <attribute name="buy##1" own="true">
+                <membership>0.75</membership>
+            </attribute>
+            <attribute name="crash##3, crash##1" own="false">
+                <membership>0.75</membership>
+            </attribute>
+            <attribute name="don##5, don##1" own="false">
+                <membership>0.76</membership>
+            </attribute>
+            <attribute name="fall##3" own="true">
+                <membership>0.75</membership>
+            </attribute>
+            <attribute name="fear##1" own="true">
+                <membership>0.75</membership>
+            </attribute>
+            <attribute name="find##2" own="true">
+                <membership>0.75</membership>
+            </attribute>
+            <attribute name="funds##1" own="true">
+                <membership>0.75</membership>
+            </attribute>
+            <attribute name="hedge##2" own="true">
+                <membership>0.75</membership>
+            </attribute>
+            <attribute name="investor##1" own="true">
+                <membership>0.75</membership>
+            </attribute>
+            <attribute name="market##2, market##1" own="false">
+                <membership>0.76</membership>
+            </attribute>
+            <attribute name="money##1" own="false">
+                <membership>1.0</membership>
+            </attribute>
+            <attribute name="plan##1" own="false">
+                <membership>0.75</membership>
+            </attribute>
+            <attribute name="rescue##1" own="false">
+                <membership>0.75</membership>
+            </attribute>
+            <attribute name="rule##1" own="false">
+                <membership>0.75</membership>
+            </attribute>
+            <attribute name="situation##2" own="true">
+                <membership>0.75</membership>
+            </attribute>
+            <attribute name="smart##1" own="true">
+                <membership>0.75</membership>
+            </attribute>
+            <attribute name="talking##1" own="true">
+                <membership>0.75</membership>
+            </attribute>
+        </concept>
+        <concept id="20" label="#depression##3#thirties##1" support="0.084">
+            <object name="4" own="true">
+                <membership>0.62</membership>
+            </object>
+            <attribute name="bed##3" own="true">
+                <membership>0.62</membership>
+            </attribute>
+            <attribute name="care##1" own="false">
+                <membership>0.73</membership>
+            </attribute>
+            <attribute name="confession##2" own="true">
+                <membership>0.62</membership>
+            </attribute>
+            <attribute name="crash##3, crash##1" own="false">
+                <membership>1.0</membership>
+            </attribute>
+            <attribute name="depression##3" own="true">
+                <membership>0.73</membership>
+            </attribute>
+            <attribute name="don##5, don##1" own="false">
+                <membership>0.87</membership>
+            </attribute>
+            <attribute name="dream##6, dream##1" own="false">
+                <membership>0.62</membership>
+            </attribute>
+            <attribute name="economy##1" own="true">
+                <membership>0.62</membership>
+            </attribute>
+            <attribute name="elite##1" own="true">
+                <membership>0.62</membership>
+            </attribute>
+            <attribute name="euro##1" own="false">
+                <membership>0.62</membership>
+            </attribute>
+            <attribute name="face##4" own="true">
+                <membership>0.62</membership>
+            </attribute>
+            <attribute name="isn##1" own="false">
+                <membership>0.62</membership>
+            </attribute>
+            <attribute name="job##1" own="true">
+                <membership>0.62</membership>
+            </attribute>
+            <attribute name="know##1" own="false">
+                <membership>0.62</membership>
+            </attribute>
+            <attribute name="make##1" own="false">
+                <membership>0.96</membership>
+            </attribute>
+            <attribute name="market##2, market##1" own="false">
+                <membership>0.73</membership>
+            </attribute>
+            <attribute name="matter##5" own="true">
+                <membership>0.62</membership>
+            </attribute>
+            <attribute name="moment##2" own="true">
+                <membership>0.62</membership>
+            </attribute>
+            <attribute name="money##1" own="false">
+                <membership>0.96</membership>
+            </attribute>
+            <attribute name="night##1" own="true">
+                <membership>0.62</membership>
+            </attribute>
+            <attribute name="opportunity##1" own="true">
+                <membership>0.62</membership>
+            </attribute>
+            <attribute name="people##1" own="false">
+                <membership>0.85</membership>
+            </attribute>
+            <attribute name="recession##1" own="true">
+                <membership>0.62</membership>
+            </attribute>
+            <attribute name="see##1" own="true">
+                <membership>0.62</membership>
+            </attribute>
+            <attribute name="situation##3" own="true">
+                <membership>0.62</membership>
+            </attribute>
+            <attribute name="sort##1, kind##1" own="false">
+                <membership>0.62</membership>
+            </attribute>
+            <attribute name="storm##1" own="true">
+                <membership>0.62</membership>
+            </attribute>
+            <attribute name="stuff##2, stuff##1" own="false">
+                <membership>0.62</membership>
+            </attribute>
+            <attribute name="think##1" own="true">
+                <membership>0.62</membership>
+            </attribute>
+            <attribute name="thirties##1" own="true">
+                <membership>0.73</membership>
+            </attribute>
+            <attribute name="trader##1" own="false">
+                <membership>0.73</membership>
+            </attribute>
+            <attribute name="years##2" own="true">
+                <membership>0.62</membership>
+            </attribute>
+        </concept>
+        <concept id="13" label="#government##1#thinking##1#wait##1#world##5" support="0.084">
+            <object name="9" own="true">
+                <membership>0.58</membership>
+            </object>
+            <attribute name="acting##1" own="true">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="acts##1" own="true">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="answer##1" own="true">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="assets##1" own="false">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="beginning##1" own="true">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="cancer##2" own="true">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="care##1" own="false">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="crisis##2" own="true">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="don##5, don##1" own="false">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="fine##1" own="true">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="get##1" own="false">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="government##1" own="true">
+                <membership>0.67</membership>
+            </attribute>
+            <attribute name="help##1" own="true">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="isn##1" own="false">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="lay##1" own="true">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="make##1" own="false">
+                <membership>0.67</membership>
+            </attribute>
+            <attribute name="market##2, market##1" own="false">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="milk##3" own="true">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="money##1" own="false">
+                <membership>0.67</membership>
+            </attribute>
+            <attribute name="month##1" own="true">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="package##1" own="true">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="people##1" own="false">
+                <membership>1.0</membership>
+            </attribute>
+            <attribute name="prediction##1" own="true">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="quick##1" own="true">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="rescue##1" own="false">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="risk##1" own="true">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="rule##1" own="false">
+                <membership>0.67</membership>
+            </attribute>
+            <attribute name="savings##1" own="true">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="say##1" own="false">
+                <membership>0.67</membership>
+            </attribute>
+            <attribute name="sort##1, kind##1" own="false">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="take##1" own="false">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="tell##1" own="true">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="thing##5" own="true">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="things##1" own="true">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="thinking##1" own="true">
+                <membership>0.67</membership>
+            </attribute>
+            <attribute name="time##2" own="true">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="trader##1" own="false">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="twelve##1" own="true">
+                <membership>0.58</membership>
+            </attribute>
+            <attribute name="wait##1" own="true">
+                <membership>0.67</membership>
+            </attribute>
+            <attribute name="world##5" own="true">
+                <membership>0.67</membership>
+            </attribute>
+        </concept>
+    </concepts>
+    <edges>
+        <edge lower_concept_id="2" upper_concept_id="0">
+            <membership>0.0</membership>
+        </edge>
+        <edge lower_concept_id="3" upper_concept_id="0">
+            <membership>0.0</membership>
+        </edge>
+        <edge lower_concept_id="4" upper_concept_id="0">
+            <membership>0.0</membership>
+        </edge>
+        <edge lower_concept_id="5" upper_concept_id="0">
+            <membership>0.0</membership>
+        </edge>
+        <edge lower_concept_id="6" upper_concept_id="0">
+            <membership>0.0</membership>
+        </edge>
+        <edge lower_concept_id="7" upper_concept_id="0">
+            <membership>0.0</membership>
+        </edge>
+        <edge lower_concept_id="8" upper_concept_id="0">
+            <membership>0.0</membership>
+        </edge>
+        <edge lower_concept_id="9" upper_concept_id="0">
+            <membership>0.0</membership>
+        </edge>
+        <edge lower_concept_id="10" upper_concept_id="0">
+            <membership>0.0</membership>
+        </edge>
+        <edge lower_concept_id="11" upper_concept_id="0">
+            <membership>0.0</membership>
+        </edge>
+        <edge lower_concept_id="1" upper_concept_id="11">
+            <membership>0.0</membership>
+        </edge>
+        <edge lower_concept_id="1" upper_concept_id="9">
+            <membership>0.0</membership>
+        </edge>
+        <edge lower_concept_id="12" upper_concept_id="8">
+            <membership>0.64</membership>
+        </edge>
+        <edge lower_concept_id="13" upper_concept_id="8">
+            <membership>0.37</membership>
+        </edge>
+        <edge lower_concept_id="14" upper_concept_id="6">
+            <membership>0.43</membership>
+        </edge>
+        <edge lower_concept_id="12" upper_concept_id="6">
+            <membership>0.58</membership>
+        </edge>
+        <edge lower_concept_id="15" upper_concept_id="5">
+            <membership>0.61</membership>
+        </edge>
+        <edge lower_concept_id="16" upper_concept_id="5">
+            <membership>0.65</membership>
+        </edge>
+        <edge lower_concept_id="17" upper_concept_id="5">
+            <membership>0.41</membership>
+        </edge>
+        <edge lower_concept_id="18" upper_concept_id="4">
+            <membership>0.58</membership>
+        </edge>
+        <edge lower_concept_id="15" upper_concept_id="4">
+            <membership>0.78</membership>
+        </edge>
+        <edge lower_concept_id="19" upper_concept_id="3">
+            <membership>0.57</membership>
+        </edge>
+        <edge lower_concept_id="13" upper_concept_id="3">
+            <membership>0.44</membership>
+        </edge>
+        <edge lower_concept_id="20" upper_concept_id="2">
+            <membership>0.39</membership>
+        </edge>
+        <edge lower_concept_id="21" upper_concept_id="7">
+            <membership>0.69</membership>
+        </edge>
+        <edge lower_concept_id="22" upper_concept_id="7">
+            <membership>0.71</membership>
+        </edge>
+        <edge lower_concept_id="23" upper_concept_id="7">
+            <membership>0.62</membership>
+        </edge>
+        <edge lower_concept_id="24" upper_concept_id="17">
+            <membership>0.58</membership>
+        </edge>
+        <edge lower_concept_id="25" upper_concept_id="17">
+            <membership>0.43</membership>
+        </edge>
+        <edge lower_concept_id="26" upper_concept_id="16">
+            <membership>0.73</membership>
+        </edge>
+        <edge lower_concept_id="27" upper_concept_id="16">
+            <membership>0.74</membership>
+        </edge>
+        <edge lower_concept_id="24" upper_concept_id="15">
+            <membership>0.39</membership>
+        </edge>
+        <edge lower_concept_id="23" upper_concept_id="15">
+            <membership>0.46</membership>
+        </edge>
+        <edge lower_concept_id="14" upper_concept_id="18">
+            <membership>0.39</membership>
+        </edge>
+        <edge lower_concept_id="23" upper_concept_id="18">
+            <membership>0.62</membership>
+        </edge>
+        <edge lower_concept_id="28" upper_concept_id="10">
+            <membership>0.51</membership>
+        </edge>
+        <edge lower_concept_id="29" upper_concept_id="10">
+            <membership>0.5</membership>
+        </edge>
+        <edge lower_concept_id="28" upper_concept_id="22">
+            <membership>0.55</membership>
+        </edge>
+        <edge lower_concept_id="20" upper_concept_id="22">
+            <membership>0.46</membership>
+        </edge>
+        <edge lower_concept_id="28" upper_concept_id="21">
+            <membership>0.57</membership>
+        </edge>
+        <edge lower_concept_id="13" upper_concept_id="21">
+            <membership>0.44</membership>
+        </edge>
+        <edge lower_concept_id="30" upper_concept_id="27">
+            <membership>0.72</membership>
+        </edge>
+        <edge lower_concept_id="31" upper_concept_id="27">
+            <membership>0.65</membership>
+        </edge>
+        <edge lower_concept_id="23" upper_concept_id="27">
+            <membership>0.58</membership>
+        </edge>
+        <edge lower_concept_id="32" upper_concept_id="26">
+            <membership>0.65</membership>
+        </edge>
+        <edge lower_concept_id="33" upper_concept_id="26">
+            <membership>0.67</membership>
+        </edge>
+        <edge lower_concept_id="23" upper_concept_id="26">
+            <membership>0.59</membership>
+        </edge>
+        <edge lower_concept_id="1" upper_concept_id="19">
+            <membership>0.0</membership>
+        </edge>
+        <edge lower_concept_id="1" upper_concept_id="12">
+            <membership>0.0</membership>
+        </edge>
+        <edge lower_concept_id="25" upper_concept_id="30">
+            <membership>0.51</membership>
+        </edge>
+        <edge lower_concept_id="20" upper_concept_id="30">
+            <membership>0.42</membership>
+        </edge>
+        <edge lower_concept_id="13" upper_concept_id="32">
+            <membership>0.45</membership>
+        </edge>
+        <edge lower_concept_id="29" upper_concept_id="32">
+            <membership>0.56</membership>
+        </edge>
+        <edge lower_concept_id="25" upper_concept_id="31">
+            <membership>0.57</membership>
+        </edge>
+        <edge lower_concept_id="13" upper_concept_id="31">
+            <membership>0.44</membership>
+        </edge>
+        <edge lower_concept_id="29" upper_concept_id="33">
+            <membership>0.55</membership>
+        </edge>
+        <edge lower_concept_id="20" upper_concept_id="33">
+            <membership>0.46</membership>
+        </edge>
+        <edge lower_concept_id="1" upper_concept_id="28">
+            <membership>0.0</membership>
+        </edge>
+        <edge lower_concept_id="1" upper_concept_id="24">
+            <membership>0.0</membership>
+        </edge>
+        <edge lower_concept_id="1" upper_concept_id="14">
+            <membership>0.0</membership>
+        </edge>
+        <edge lower_concept_id="13" upper_concept_id="23">
+            <membership>0.49</membership>
+        </edge>
+        <edge lower_concept_id="20" upper_concept_id="23">
+            <membership>0.52</membership>
+        </edge>
+        <edge lower_concept_id="1" upper_concept_id="29">
+            <membership>0.0</membership>
+        </edge>
+        <edge lower_concept_id="1" upper_concept_id="25">
+            <membership>0.0</membership>
+        </edge>
+        <edge lower_concept_id="1" upper_concept_id="20">
+            <membership>0.0</membership>
+        </edge>
+        <edge lower_concept_id="1" upper_concept_id="13">
+            <membership>0.0</membership>
+        </edge>
+    </edges>
+</lattice>

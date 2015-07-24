@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<context uri="http://www.mia.com">
+    <object name="3">
+        <attribute name="tough##1">
+            <membership>1.0</membership>
+        </attribute>
+    </object>
+    <object name="2">
+        <attribute name="keep##1">
+            <membership>1.0</membership>
+        </attribute>
+        <attribute name="hearing##1">
+            <membership>0.75</membership>
+        </attribute>
+        <attribute name="politician##1">
+            <membership>0.75</membership>
+        </attribute>
+        <attribute name="problem##1">
+            <membership>0.75</membership>
+        </attribute>
+        <attribute name="fall##10, pin##2">
+            <membership>0.77</membership>
+        </attribute>
+        <attribute name="isn##1">
+            <membership>0.75</membership>
+        </attribute>
+        <attribute name="light##6">
+            <membership>0.75</membership>
+        </attribute>
+        <attribute name="make##1">
+            <membership>0.75</membership>
+        </attribute>
+        <attribute name="feel##2">
+            <membership>0.75</membership>
+        </attribute>
+    </object>
+    <object name="10"/>
+    <object name="1">
+        <attribute name="know##1">
+            <membership>0.95</membership>
+        </attribute>
+        <attribute name="toast##1">
+            <membership>0.73</membership>
+        </attribute>
+        <attribute name="stock##4">
+            <membership>0.73</membership>
+        </attribute>
+        <attribute name="euro##1">
+            <membership>0.73</membership>
+        </attribute>
+        <attribute name="concern##2">
+            <membership>0.73</membership>
+        </attribute>
+        <attribute name="care##1">
+            <membership>0.73</membership>
+        </attribute>
+        <attribute name="remove##1">
+            <membership>0.73</membership>
+        </attribute>
+        <attribute name="money##1">
+            <membership>0.73</membership>
+        </attribute>
+        <attribute name="assets##1">
+            <membership>0.73</membership>
+        </attribute>
+        <attribute name="treasury##3">
+            <membership>0.73</membership>
+        </attribute>
+        <attribute name="bond##2">
+            <membership>0.95</membership>
+        </attribute>
+        <attribute name="thirty##1">
+            <membership>0.73</membership>
+        </attribute>
+        <attribute name="year##1">
+            <membership>0.73</membership>
+        </attribute>
+        <attribute name="dollar##1">
+            <membership>0.73</membership>
+        </attribute>
+        <attribute name="work##1">
+            <membership>0.73</membership>
+        </attribute>
+        <attribute name="market##2, market##1">
+            <membership>1.0</membership>
+        </attribute>
+    </object>
+    <object name="0">
+        <attribute name="money##1">
+            <membership>1.0</membership>
+        </attribute>
+        <attribute name="crash##3, crash##1">
+            <membership>0.75</membership>
+        </attribute>
+        <attribute name="fall##3">
+            <membership>0.75</membership>
+        </attribute>
+        <attribute name="rule##1">
+            <membership>0.75</membership>
+        </attribute>
+        <attribute name="fear##1">
+            <membership>0.75</membership>
+        </attribute>
+        <attribute name="investor##1">
+            <membership>0.75</membership>
+        </attribute>
+        <attribute name="smart##1">
+            <membership>0.75</membership>
+        </attribute>
+        <attribute name="talking##1">
+            <membership>0.75</membership>
+        </attribute>
+        <attribute name="find##2">
+            <membership>0.75</membership>
+        </attribute>
+        <attribute name="hedge##2">
+            <membership>0.75</membership>
+        </attribute>
+        <attribute name="funds##1">
+            <membership>0.75</membership>
+        </attribute>
+        <attribute name="situation##2">
+            <membership>0.75</membership>
+        </attribute>
+        <attribute name="buy##1">
+            <membership>0.75</membership>
+        </attribute>
+        <attribute name="rescue##1">
+            <membership>0.75</membership>
+        </attribute>
+        <attribute name="plan##1">
+            <membership>0.75</membership>
+        </attribute>
+        <attribute name="market##2, market##1">
+            <membership>0.76</membership>
+        </attribute>
+        <attribute name="don##5, don##1">
+            <membership>0.76</membership>
+        </attribute>
+    </object>
+    <object name="7">
+        <attribute name="jewel##1">
+            <membership>0.75</membership>
+        </attribute>
+        <attribute name="get##1">
+            <membership>0.75</membership>
+        </attribute>
+        <attribute name="patent##1">
+            <membership>0.75</membership>
+        </attribute>
+        <attribute name="rest##1">
+            <membership>1.0</membership>
+        </attribute>
+    </object>
+    <object name="6">
+        <attribute name="treasury##3">
+            <membership>0.75</membership>
+        </attribute>
+        <attribute name="bond##2">
+            <membership>1.0</membership>
+        </attribute>
+        <attribute name="investing##1">
+            <membership>0.75</membership>
+        </attribute>
+        <attribute name="sort##1, kind##1">
+            <membership>0.75</membership>
+        </attribute>
+        <attribute name="say##1">
+            <membership>0.75</membership>
+        </attribute>
+        <attribute name="people##1">
+            <membership>0.75</membership>
+        </attribute>
+        <attribute name="stuff##2, stuff##1">
+            <membership>0.78</membership>
+        </attribute>
+    </object>
+    <object name="5">
+        <attribute name="make##1">
+            <membership>1.0</membership>
+        </attribute>
+        <attribute name="money##1">
+            <membership>1.0</membership>
+        </attribute>
+        <attribute name="plan##1">
+            <membership>1.0</membership>
+        </attribute>
+        <attribute name="set##5">
+            <membership>1.0</membership>
+        </attribute>
+        <attribute name="lot##3">
+            <membership>1.0</membership>
+        </attribute>
+        <attribute name="example##3">
+            <membership>1.0</membership>
+        </attribute>
+        <attribute name="hedging##1">
+            <membership>1.0</membership>
+        </attribute>
+        <attribute name="strategy##1">
+            <membership>1.0</membership>
+        </attribute>
+    </object>
+    <object name="4">
+        <attribute name="isn##1">
+            <membership>0.62</membership>
+        </attribute>
+        <attribute name="make##1">
+            <membership>0.96</membership>
+        </attribute>
+        <attribute name="know##1">
+            <membership>0.62</membership>
+        </attribute>
+        <attribute name="euro##1">
+            <membership>0.62</membership>
+        </attribute>
+        <attribute name="care##1">
+            <membership>0.73</membership>
+        </attribute>
+        <attribute name="money##1">
+            <membership>0.96</membership>
+        </attribute>
+        <attribute name="crash##3, crash##1">
+            <membership>1.0</membership>
+        </attribute>
+        <attribute name="sort##1, kind##1">
+            <membership>0.62</membership>
+        </attribute>
+        <attribute name="people##1">
+            <membership>0.85</membership>
+        </attribute>
+        <attribute name="matter##5">
+            <membership>0.62</membership>
+        </attribute>
+        <attribute name="trader##1">
+            <membership>0.73</membership>
+        </attribute>
+        <attribute name="stuff##2, stuff##1">
+            <membership>0.62</membership>
+        </attribute>
+        <attribute name="see##1">
+            <membership>0.62</membership>
+        </attribute>
+        <attribute name="face##4">
+            <membership>0.62</membership>
+        </attribute>
+        <attribute name="economy##1">
+            <membership>0.62</membership>
+        </attribute>
+        <attribute name="situation##3">
+            <membership>0.62</membership>
+        </attribute>
+        <attribute name="job##1">
+            <membership>0.62</membership>
+        </attribute>
+        <attribute name="years##2">
+            <membership>0.62</membership>
+        </attribute>
+        <attribute name="confession##2">
+            <membership>0.62</membership>
+        </attribute>
+        <attribute name="bed##3">
+            <membership>0.62</membership>
+        </attribute>
+        <attribute name="night##1">
+            <membership>0.62</membership>
+        </attribute>
+        <attribute name="recession##1">
+            <membership>0.62</membership>
+        </attribute>
+        <attribute name="dream##6, dream##1">
+            <membership>0.62</membership>
+        </attribute>
+        <attribute name="moment##2">
+            <membership>0.62</membership>
+        </attribute>
+        <attribute name="thirties##1">
+            <membership>0.73</membership>
+        </attribute>
+        <attribute name="depression##3">
+            <membership>0.73</membership>
+        </attribute>
+        <attribute name="market##2, market##1">
+            <membership>0.73</membership>
+        </attribute>
+        <attribute name="think##1">
+            <membership>0.62</membership>
+        </attribute>
+        <attribute name="elite##1">
+            <membership>0.62</membership>
+        </attribute>
+        <attribute name="opportunity##1">
+            <membership>0.62</membership>
+        </attribute>
+        <attribute name="storm##1">
+            <membership>0.62</membership>
+        </attribute>
+        <attribute name="don##5, don##1">
+            <membership>0.87</membership>
+        </attribute>
+    </object>
+    <object name="9">
+        <attribute name="isn##1">
+            <membership>0.58</membership>
+        </attribute>
+        <attribute name="make##1">
+            <membership>0.67</membership>
+        </attribute>
+        <attribute name="care##1">
+            <membership>0.58</membership>
+        </attribute>
+        <attribute name="money##1">
+            <membership>0.67</membership>
+        </attribute>
+        <attribute name="assets##1">
+            <membership>0.58</membership>
+        </attribute>
+        <attribute name="rule##1">
+            <membership>0.67</membership>
+        </attribute>
+        <attribute name="rescue##1">
+            <membership>0.58</membership>
+        </attribute>
+        <attribute name="get##1">
+            <membership>0.58</membership>
+        </attribute>
+        <attribute name="sort##1, kind##1">
+            <membership>0.58</membership>
+        </attribute>
+        <attribute name="say##1">
+            <membership>0.67</membership>
+        </attribute>
+        <attribute name="people##1">
+            <membership>1.0</membership>
+        </attribute>
+        <attribute name="trader##1">
+            <membership>0.58</membership>
+        </attribute>
+        <attribute name="market##2, market##1">
+            <membership>0.58</membership>
+        </attribute>
+        <attribute name="crisis##2">
+            <membership>0.58</membership>
+        </attribute>
+        <attribute name="cancer##2">
+            <membership>0.58</membership>
+        </attribute>
+        <attribute name="wait##1">
+            <membership>0.67</membership>
+        </attribute>
+        <attribute name="thinking##1">
+            <membership>0.67</membership>
+        </attribute>
+        <attribute name="quick##1">
+            <membership>0.58</membership>
+        </attribute>
+        <attribute name="answer##1">
+            <membership>0.58</membership>
+        </attribute>
+        <attribute name="lay##1">
+            <membership>0.58</membership>
+        </attribute>
+        <attribute name="time##2">
+            <membership>0.58</membership>
+        </attribute>
+        <attribute name="government##1">
+            <membership>0.67</membership>
+        </attribute>
+        <attribute name="things##1">
+            <membership>0.58</membership>
+        </attribute>
+        <attribute name="don##5, don##1">
+            <membership>0.58</membership>
+        </attribute>
+        <attribute name="world##5">
+            <membership>0.67</membership>
+        </attribute>
+        <attribute name="package##1">
+            <membership>0.58</membership>
+        </attribute>
+        <attribute name="fine##1">
+            <membership>0.58</membership>
+        </attribute>
+        <attribute name="tell##1">
+            <membership>0.58</membership>
+        </attribute>
+        <attribute name="help##1">
+            <membership>0.58</membership>
+        </attribute>
+        <attribute name="thing##5">
+            <membership>0.58</membership>
+        </attribute>
+        <attribute name="twelve##1">
+            <membership>0.58</membership>
+        </attribute>
+        <attribute name="month##1">
+            <membership>0.58</membership>
+        </attribute>
+        <attribute name="prediction##1">
+            <membership>0.58</membership>
+        </attribute>
+        <attribute name="savings##1">
+            <membership>0.58</membership>
+        </attribute>
+        <attribute name="milk##3">
+            <membership>0.58</membership>
+        </attribute>
+        <attribute name="beginning##1">
+            <membership>0.58</membership>
+        </attribute>
+        <attribute name="acts##1">
+            <membership>0.58</membership>
+        </attribute>
+        <attribute name="risk##1">
+            <membership>0.58</membership>
+        </attribute>
+        <attribute name="take##1">
+            <membership>0.58</membership>
+        </attribute>
+        <attribute name="acting##1">
+            <membership>0.58</membership>
+        </attribute>
+    </object>
+    <object name="8">
+        <attribute name="watching##1">
+            <membership>1.0</membership>
+        </attribute>
+    </object>
+    <object name="11">
+        <attribute name="dream##6, dream##1">
+            <membership>1.0</membership>
+        </attribute>
+    </object>
+    <object name="12">
+        <attribute name="problem##1">
+            <membership>1.0</membership>
+        </attribute>
+        <attribute name="take##1">
+            <membership>1.0</membership>
+        </attribute>
+        <attribute name="try##1">
+            <membership>1.0</membership>
+        </attribute>
+        <attribute name="eleven##1">
+            <membership>1.0</membership>
+        </attribute>
+    </object>
+</context>

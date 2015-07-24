@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+
+<properties>
+
+<comment></comment>
+
+	<entry key="fuzzy.fca.log4j.properties.file">
+		./config/log4j.properties
+	</entry>
+
+	<entry key="fuzzy.fca.threshold">
+		0.5
+	</entry>
+		
+	<entry key="fuzzy.fca.supp">
+		0.0
+	</entry>	
+	<entry key="fuzzy.fca.rules.txt.fileName">xml/rules.txt</entry>
+	<entry key="fuzzy.fca.rules.xml.fileName">xml/rules.xml</entry>
+	<entry key="fuzzy.fca.input.file">./testContextPhrases.xml</entry>
+	<entry key="fuzzy.fca.output.file">./testLatticePhrases.xml</entry>
+	<entry key="fuzzy.fca.output.file.labeling">./testLatticePhrasesLabeled.xml</entry>
+	<entry key="fuzzy.fca.cex.file">xml/outputpeppe.cex</entry>
+	<entry key="fuzzy.fca.overwrite">
+		yes
+	</entry>
+</properties>
