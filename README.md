@@ -17,7 +17,7 @@ The fuzzy extension of FCA to which the implementation is inspired is described 
 
 
 
-Download
+#Download
 Source code is available from GitHub.
 
 
